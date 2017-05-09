@@ -1,3 +1,8 @@
+## Coursera's Ruby on Rails specialization assignment
+
+This assignment was done as part of the Coursera's [Ruby on Rails specialization](https://www.coursera.org/specializations/ruby-on-rails)
+and the code was deployed to [Heroku](http://recipefinder2112.herokuapp.com/)
+
 ## Assignment for Module #3: Recipe Finder
 
 The overall goal of this assignment is to implement a Rails application using model,
